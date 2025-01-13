@@ -1,0 +1,10 @@
+Usage:
+    python run.py --dim <int> --problem_num <int>
+
+Arguments:
+    --dim                 Dimensionality of the problem (default: 10)
+    --problem_num         Problem identifier (default: 1)
+
+Examples:
+    python run.py --dim 10 --problem_num 8 
+    python run.py --dim 10

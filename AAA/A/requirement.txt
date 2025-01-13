@@ -1,0 +1,8 @@
+numpy
+torch
+pyDOE
+scikit-learn
+botorch
+gpytorch
+ioh
+matplotlib
